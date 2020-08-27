@@ -19,6 +19,7 @@
 
 # DataBricks Resources
 ## Introduction
+* (Introduction to Databricks)[https://www.youtube.com/watch?v=WaxMj5_SLUI] - Youtube
 * [Describe Azure Databricks] (https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks/) - MS Learn
 * [Implementing an Azure Databricks Environment in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-databricks-environment-implementing)  - Pluralsight
 * [Describe Azure Databricks best practices](https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/) - MS Learn
