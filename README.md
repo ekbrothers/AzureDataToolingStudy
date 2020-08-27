@@ -23,6 +23,8 @@
 
 ---
 
+<br>
+
 # Data Factory Resources
 ## Introduction
 * [Building Your First Data Pipeline in Azure Data Factory](https://app.pluralsight.com/library/courses/building-first-data-pipeline-azure-data-factory/recommended-courses) - Pluralsight
@@ -34,6 +36,8 @@
 <br>
 
 ---
+
+<br>
 
 <!--- <p align="center">
   <img src="aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc=.png" />
@@ -52,10 +56,12 @@
 * [Describe platform architecture, security, and data protection in Azure Databricks](https://docs.microsoft.com/en-us/learn/modules/describe-platform-architecture-security-data-protection-azure-databricks/) - MS Learn
 * [Data Engineering with Azure DataBricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/) - MS Learn
 * [Building Your First ETL Pipeline Using Azure Databricks](https://app.pluralsight.com/library/courses/building-etl-pipeline-microsoft-azure-databricks/table-of-contents) - Pluralsight
+
+<br>
+
+---
  
- <br>
- 
- 
+<br>
 
 # Data Lake Resources
 ## Introduction
