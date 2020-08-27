@@ -12,7 +12,7 @@
 * [Create production workloads on Azure Databricks with Azure Data Factory](https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/) - MS Learn
 
 # DataBricks Resources
-* [Data Engineering with Azure DataBricks(https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/) - MS Learn
+* [Data Engineering with Azure DataBricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/) - MS Learn
 * [Implementing an Azure Databricks Environment in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-databricks-environment-implementing)  - Pluralsight
 * [Building Your First ETL Pipeline Using Azure Databricks](https://app.pluralsight.com/library/courses/building-etl-pipeline-microsoft-azure-databricks/table-of-contents) - Pluralsight
 
