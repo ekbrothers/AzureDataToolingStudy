@@ -17,7 +17,7 @@
 
 <br>
 
-![Alt Text](aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc=.png)
+(aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc=.png)
 # DataBricks Resources
 ## Introduction
 * (Introduction to Databricks)[https://www.youtube.com/watch?v=WaxMj5_SLUI] - Youtube
