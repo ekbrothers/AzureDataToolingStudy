@@ -1,11 +1,10 @@
-# datatoolingstudy
-Includes study materials on Data Factory, Databricks, and Data Lakes.
+
 
 # General Use
 * [Integrating Data in Microsoft Azure](https://app.pluralsight.com/library/courses/microsoft-azure-data-integrating)
 
 # Data Factory Resources
-* Building Your First Data Pipeline in Azure Data Factory[https://app.pluralsight.com/library/courses/building-first-data-pipeline-azure-data-factory/recommended-courses] - Pluralsight
+* (Building Your First Data Pipeline in Azure Data Factory)[https://app.pluralsight.com/library/courses/building-first-data-pipeline-azure-data-factory/recommended-courses] - Pluralsight
 
 
 # Data Bricks Resources
