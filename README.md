@@ -21,6 +21,8 @@
 
 <br>
 
+---
+
 # Data Factory Resources
 ## Introduction
 * [Building Your First Data Pipeline in Azure Data Factory](https://app.pluralsight.com/library/courses/building-first-data-pipeline-azure-data-factory/recommended-courses) - Pluralsight
@@ -30,6 +32,8 @@
 * [Create production workloads on Azure Databricks with Azure Data Factory](https://docs.microsoft.com/en-us/learn/modules/create-production-workloads-azure-databricks-azure-data-factory/) - MS Learn
 
 <br>
+
+---
 
 <!--- <p align="center">
   <img src="aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc=.png" />
