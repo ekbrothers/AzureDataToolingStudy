@@ -20,6 +20,7 @@
 <p align="center">
   <img src="aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc=.png" />
 </p>
+
 # DataBricks Resources
 ## Introduction
 * (Introduction to Databricks)[https://www.youtube.com/watch?v=WaxMj5_SLUI] - Youtube
@@ -35,6 +36,8 @@
 * [Building Your First ETL Pipeline Using Azure Databricks](https://app.pluralsight.com/library/courses/building-etl-pipeline-microsoft-azure-databricks/table-of-contents) - Pluralsight
  
  <br>
+ 
+ 
 
 # Data Lake Resources
 ## Introduction
