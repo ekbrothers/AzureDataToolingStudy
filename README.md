@@ -1,4 +1,16 @@
+# TOC
+- [General Use](#general-use)
+- [Data Factory Resources](#data-factory-resources)
+  * [Introduction](#introduction)
+  * [Deep Dives](#deep-dives)
+- [DataBricks Resources](#databricks-resources)
+  * [Introduction](#introduction-1)
+  * [Deep Dives](#deep-dives-1)
+- [Data Lake Resources](#data-lake-resources)
+  * [Introduction](#introduction-2)
+  * [Deep Dives](#deep-dives-2)
 
+<br>
 
 # General Use
 * [Survey the services on the Azure Data platform](https://docs.microsoft.com/en-us/learn/modules/survey-the-azure-data-platform/) - MS Learn
