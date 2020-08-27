@@ -7,6 +7,8 @@
 * [The Fundamentals of Scaling Agile](https://app.pluralsight.com/library/courses/fundamentals-scaling-agile/table-of-contents) - Pluralsight
 * [DataFrames and Datasets](https://docs.microsoft.com/en-us/azure/databricks/spark/latest/dataframes-datasets/) - MS Learn
 
+<br>
+
 # Data Factory Resources
 ## Introduction
 * [Building Your First Data Pipeline in Azure Data Factory](https://app.pluralsight.com/library/courses/building-first-data-pipeline-azure-data-factory/recommended-courses) - Pluralsight
