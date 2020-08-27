@@ -69,3 +69,4 @@
 * [Data Processing with Azure Data Lake](https://docs.microsoft.com/en-us/learn/paths/data-processing-with-azure-adls/) - MS Learn
 
 ## Deep Dives
+* [Optimize Azure Data Lake Storage Gen2 for performance](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-performance-tuning-guidance)
